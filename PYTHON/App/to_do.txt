@@ -1,0 +1,2 @@
+1. check if we need game_id and player_id
+2. check why not plotting graphs in streamlit

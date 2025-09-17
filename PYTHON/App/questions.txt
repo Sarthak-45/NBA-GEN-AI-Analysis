@@ -1,0 +1,11 @@
+1.  who are the top 5 players who scored highest points
+2.  who were the top 5 and lowest 5 performing players, tell according to points scored and most
+ defensive rebounds
+3.  Compare average points of Jayson Tatum and Jerami Grant
+4.  who was the most efficient player and explain why
+5.  top 3 players who had the best free throw percentage
+6.  Compare the shooting efficiency of Steph Curry and Klay Thompson and explain what each column 
+    means
+7.  Which player attempted the most 3-pointers but had a low 3-point percentage?
+8.  Show players who played more than 35 minutes in a game.
+9.  Who committed the most personal fouls?
