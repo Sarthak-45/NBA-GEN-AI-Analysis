@@ -2,3 +2,5 @@
 "secrets.toml" 
 "PYTHON/App/.streamlit/secrets.toml" 
 "**/secrets.toml" 
+PYTHON/App/.streamlit/secrets.toml 
+**/secrets.toml 
